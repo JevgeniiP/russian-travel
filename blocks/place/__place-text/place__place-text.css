@@ -1,0 +1,10 @@
+.place__place-text {
+}
+
+@media screen and (max-width: 320px) {
+	.place__place-text {
+		margin: 32px 16px 0;
+		grid-row: 7/8;
+		grid-column: 1/2;
+	}
+}
