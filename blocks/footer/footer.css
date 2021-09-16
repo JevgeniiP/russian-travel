@@ -4,7 +4,6 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	border: red 1px solid;
 }
 
 @media screen and (max-width: 1024px) {
